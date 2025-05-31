@@ -1,6 +1,4 @@
-# NexusTech Landing Page
-
-![NexusTech Landing Page](https://noreenfatima775.github.io/NexusTech/)
+**Live Demo**: [https://noreenfatima775.github.io/NexusTech/](https://noreenfatima775.github.io/NexusTech/)
 
 A fully responsive landing page for NexusTech, a technology startup offering web development, mobile apps, UI/UX design, DevOps, and AI solutions. Built with pure HTML, CSS, and JavaScript (no frameworks) using a mobile-first approach.
 
@@ -51,6 +49,7 @@ For development:
 
 ```bash
 git clone https://github.com/noreenfatima775/NexusTech.git
+```
 ## Start Editing the Files
 
 - **`index.html`** - Main HTML structure  
